@@ -17,6 +17,8 @@ Bouncy Chaos is a minimal arcade game that tests your reflexes. Control your bal
 ## Support
 For any questions or suggestions, please contact us at info.bouncychaos@gmail.com
 
+## Privacy Policy
+Our privacy policy is included in the app settings. You can view it anytime by accessing the app's privacy policy section.
 
 ## Version
 1.0
